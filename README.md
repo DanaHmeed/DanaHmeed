@@ -1,4 +1,26 @@
-## Hi there 👋
+
+# 👋 Hello, I'm Dana Hmeed!
+
+🎓 ** Computer Science **  
+💻 **Aspiring Data Scientist & Developer**  
+🌱 Currently diving deeper into AI and Data Science  
+🌟 Passionate about learning, problem-solving,Machine Learning and creating impactful projects
+
+
+
+---
+
+## 🔧 Skills & Tools
+- **Programming Languages**: Python, Java  
+- **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn  
+- **Tools**: Git, Jupyter Notebook, VS Code  
+
+---
+
+
+
+### 📫 Get in Touch!
+- 💼 [LinkedIn](www.linkedin.com/in/dana-hmeed)
 
 <!--
 **DanaHmeed/DanaHmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
