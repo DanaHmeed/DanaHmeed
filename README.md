@@ -5,7 +5,7 @@
 </div>
 
 
-🎓 ** Computer Science **  
+🎓  Computer Science 
 🌱 Currently diving deeper into AI and Data Science  
 🌟 Passionate about learning, problem-solving,Machine Learning and creating impactful projects
 
