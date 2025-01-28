@@ -3,7 +3,7 @@
   <h1>Hi, I'm Dana Hmeed ⚡ </h1>
   <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
 </div>
---- 
+
 
 🎓 ** Computer Science **  
 🌱 Currently diving deeper into AI and Data Science  
