@@ -1,8 +1,10 @@
 
-# 👋 Hello, I'm Dana Hmeed!
+<div align="center">
+  <h1>Hi, I'm Dana Hmeed ⚡ </h1>
+  <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
+</div>
 
 🎓 ** Computer Science **  
-💻 **Aspiring Data Scientist & Developer**  
 🌱 Currently diving deeper into AI and Data Science  
 🌟 Passionate about learning, problem-solving,Machine Learning and creating impactful projects
 
@@ -16,6 +18,7 @@
 - **Tools**: Git, Jupyter Notebook, VS Code  
 
 ---
+# You can Find me
 
 
 
