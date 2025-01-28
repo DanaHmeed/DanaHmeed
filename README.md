@@ -3,12 +3,24 @@
   <h1>Hi, I'm Dana Hmeed ⚡ </h1>
   <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
 </div>
+--- 
 
 🎓 ** Computer Science **  
 🌱 Currently diving deeper into AI and Data Science  
 🌟 Passionate about learning, problem-solving,Machine Learning and creating impactful projects
 
-
+### 📫 You Can Find Me At:
+<div align="center">
+  <a href="https://www.linkedin.com/in/dana-hmeed">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/Danaali?csrf_token=46c49bac4c9f004ff3be9b4df624dd9b" />
+    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="mailto:danahmeed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
