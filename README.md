@@ -1,8 +1,12 @@
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
+
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
 <div align="center">
   <h1>Hi, I'm Dana Hmeed ⚡ </h1>
   <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
