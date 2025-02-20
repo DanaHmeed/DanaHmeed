@@ -40,7 +40,7 @@
 ---
 
 ## 🔧 Skills & Tools
-- **Programming Languages**: <p align="center">
+- ### Programming Languages: 
    <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
-- **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn  
+- ### Libraries & Frameworks:  
 <p align="center">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
