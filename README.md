@@ -8,7 +8,6 @@
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 <div align="center">
-  <h1>Hi, I'm Dana Hmeed ⚡ </h1>
   <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
 </div>
 
