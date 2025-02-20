@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Dana+Hmeed;Business+Analyst" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Dana+Hmeed;Dana Hmeed" alt="Dana Hmeed"/>
 </a>
 
 <div>
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 <div align="center">
-  <p><b>Computer Science Student | Aspiring Data Scientist</b> 💻</p>
+  <h2>Computer Science Student | Aspiring Data Scientist 💻</h2>
 </div>
 
 
