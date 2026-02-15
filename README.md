@@ -17,7 +17,7 @@
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 <div align="center">
-  <h2>Computer Science Student | Aspiring Data Scientist | Software developer 💻</h2>
+  <h2>Computer Science Student |Software Developer |  Aspiring Data Scientist  💻</h2>
 </div>
 
 
