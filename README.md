@@ -17,7 +17,8 @@
     <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 <div align="center">
-  <h2>Software Developer |  Aspiring Data Scientist  💻</h2>
+  <h2>Dana Hmeed — Software Engineer
+Full-stack applications, backend systems, PostgreSQL, and applied AI.</h2>
 </div>
 
 
