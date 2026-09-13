@@ -1,98 +1,154 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Dana+Hmeed;" alt="Dana Hmeed"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&color=D9BED1&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems" alt="Typing SVG" />
 </a>
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-<div align="center">
-  <h2>Dana Hmeed — Software Engineer
-Full-stack applications, backend systems, PostgreSQL, and applied AI.</h2>
-</div>
+### Software Engineer | Full-Stack & AI
 
+Building full-stack applications, backend systems, data-driven products, and applied AI solutions.
 
-### 📫 You Can Find Me At:
-<div align="center">
-  <a href="https://www.linkedin.com/in/dana-hmeed">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:danahmeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-danahmeed.dev-D9BED1?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana_Hmeed-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dana-hmeed)
+[![GitHub](https://img.shields.io/badge/GitHub-DanaHmeed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DanaHmeed)
+
 </div>
 
 ---
 
-## 🔧 Skills & Tools
-- ### Programming Languages: 
-   <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+## About Me
 
-</p>
+```ts
+const dana = {
+  role: "Software Engineer",
+  focus: ["Full-Stack Development", "Backend Systems", "Applied AI"],
+  frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "NestJS", "FastAPI", "REST APIs"],
+  databases: ["PostgreSQL", "SQL", "NoSQL"],
+  ai: ["Python", "Machine Learning", "LLM Integration", "OpenAI SDK"],
+  tools: ["Git", "GitHub", "Postman", "Swagger", "Jira", "CI/CD"],
+};
+```
 
 ---
 
-- ### Libraries & Frameworks:  
+## Tech Stack
+
+### Languages
+
 <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css" alt="Programming Languages"/>
+</p>
 
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" alt="Backend Technologies"/>
+</p>
+
+<p align="center">
+  REST APIs • API Integration • Authentication • Role-Based Access Control
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+</p>
+
+<p align="center">
+  PostgreSQL • SQL • Relational Database Design • NoSQL
+</p>
+
+### AI & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI and Data"/>
+</p>
+
+<p align="center">
+  Pandas • NumPy • Machine Learning • LLM Integration • OpenAI SDK • Function Calling • Power BI
+</p>
+
+### Development & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vercel,vscode,figma" alt="Development Tools"/>
+</p>
+
+<p align="center">
+  GitHub Actions • CI/CD • Postman • Swagger • Jira • Jupyter
 </p>
 
 ---
 
-- ### Tools:
-  <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+## Selected Projects
 
-</p>
+### Evenza — Event Management Platform
 
----
-### 🤔 Support
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+**Next.js • TypeScript • PostgreSQL • Clerk • Stripe • LLaMA 3.3**
+
+Full-stack event platform with role-based organizer and attendee dashboards, authentication, event management, payment workflows, and an LLM-powered assistant connected to event data.
 
 ---
 
-### 📫 Get in Touch!
-- 💼 [LinkedIn](www.linkedin.com/in/dana-hmeed)
+### Critiq — Collaborative Code Review Platform
 
-<!--
-**DanaHmeed/DanaHmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**React • TypeScript • Tailwind CSS • Node.js • Express.js • PostgreSQL**
 
-Here are some ideas to get you started:
+Full-stack code review platform with reusable React components, REST APIs, persistent review data, and real-time collaborative review workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### AI Coding Agent
+
+**Python • OpenAI SDK • Function Calling**
+
+Agentic coding system that converts natural-language requests into multi-step workflows for inspecting files, modifying code, executing Python programs, and verifying results.
+
+---
+
+## What I Work With
+
+```text
+Frontend       React · Next.js · Angular · TypeScript · Tailwind CSS
+Backend        Node.js · Express.js · NestJS · FastAPI · REST APIs
+Database       PostgreSQL · SQL · NoSQL
+AI & Data      Python · ML · LLM Integration · OpenAI SDK · Power BI
+Testing        Postman · Swagger · Manual Testing · Regression Testing
+DevOps         Git · GitHub · GitHub Actions · CI/CD · Azure · Vercel
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanaHmeed&show_icons=true&hide_border=true&title_color=D9BED1&icon_color=D9BED1" alt="Dana's GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanaHmeed&layout=compact&hide_border=true&title_color=D9BED1" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-D9BED1?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dana-hmeed)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DanaHmeed)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=100&section=footer" alt="footer"/>
