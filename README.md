@@ -90,32 +90,6 @@ const dana = {
 
 ---
 
-## Selected Projects
-
-### Evenza — Event Management Platform
-
-**Next.js • TypeScript • PostgreSQL • Clerk • Stripe • LLaMA 3.3**
-
-Full-stack event platform with role-based organizer and attendee dashboards, authentication, event management, payment workflows, and an LLM-powered assistant connected to event data.
-
----
-
-### Critiq — Collaborative Code Review Platform
-
-**React • TypeScript • Tailwind CSS • Node.js • Express.js • PostgreSQL**
-
-Full-stack code review platform with reusable React components, REST APIs, persistent review data, and real-time collaborative review workflows.
-
----
-
-### AI Coding Agent
-
-**Python • OpenAI SDK • Function Calling**
-
-Agentic coding system that converts natural-language requests into multi-step workflows for inspecting files, modifying code, executing Python programs, and verifying results.
-
----
-
 ## What I Work With
 
 ```text
