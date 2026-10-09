@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=120&section=header" alt="header"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&color=D9BED1&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&color=660033&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems" alt="Typing SVG" />
 </a>
 
 ### Software Engineer | Full-Stack & AI
 
 Building full-stack applications, backend systems, data-driven products, and applied AI solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-danahmeed.dev-D9BED1?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danahmeed.dev-660033?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dana_Hmeed-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dana-hmeed)
 [![GitHub](https://img.shields.io/badge/GitHub-DanaHmeed-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DanaHmeed)
 
@@ -107,9 +107,9 @@ DevOps         Git · GitHub · GitHub Actions · CI/CD · Azure · Vercel
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanaHmeed&show_icons=true&hide_border=true&title_color=D9BED1&icon_color=D9BED1" alt="Dana's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanaHmeed&show_icons=true&hide_border=true&title_color=660033&icon_color=660033" alt="Dana's GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanaHmeed&layout=compact&hide_border=true&title_color=D9BED1" alt="Most Used Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanaHmeed&layout=compact&hide_border=true&title_color=660033" alt="Most Used Languages"/>
 
 </div>
 
@@ -119,10 +119,10 @@ DevOps         Git · GitHub · GitHub Actions · CI/CD · Azure · Vercel
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-D9BED1?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-660033?style=for-the-badge\&logo=vercel\&logoColor=black)](https://www.danahmeed.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dana-hmeed)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DanaHmeed)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=100&section=footer" alt="footer"/>
