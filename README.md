@@ -103,17 +103,6 @@ DevOps         Git · GitHub · GitHub Actions · CI/CD · Azure · Vercel
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanaHmeed&show_icons=true&hide_border=true&title_color=660033&icon_color=660033" alt="Dana's GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanaHmeed&layout=compact&hide_border=true&title_color=660033" alt="Most Used Languages"/>
-
-</div>
-
----
 
 ## Connect
 
