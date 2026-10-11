@@ -3,7 +3,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems" alt="Typing SVG" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=700&color=000000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Dana+Hmeed;Software+Engineer;Full-Stack+Developer;Building+Web%2C+Backend+%26+AI+Systems" alt="Typing SVG">
+  </picture>
+</a>
 
 ### Software Engineer | Full-Stack & AI
 
